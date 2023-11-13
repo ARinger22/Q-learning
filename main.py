@@ -1,4 +1,6 @@
-#Copyright-Unicorn_Unity
+# Authors:- Arnav Kharbanda, Yashasav Prajapati, Shobhit Juglan, Arpit Kumar Gautam
+# References:- https://www.analyticsvidhya.com/blog/2021/04/q-learning-algorithm-with-step-by-step-implementation-using-python/
+# https://link.springer.com/article/10.1007/BF00992698
 
 import numpy as np
 
